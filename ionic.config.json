@@ -1,0 +1,7 @@
+{
+  "name": "calculadoraradiogroupreto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
